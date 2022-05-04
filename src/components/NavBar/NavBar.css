@@ -1,0 +1,21 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav a {
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+.nav a:hover {
+    color: red;
+}
